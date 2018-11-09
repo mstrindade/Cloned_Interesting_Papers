@@ -22,6 +22,8 @@ I would continue adding papers to this roadmap.
 
 ## 1.-1 Links
 http://scs.ryerson.ca/~aharley/vis/
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+https://github.com/peterroelants/peterroelants.github.io/tree/master/_posts
 
 ## 1.0 Book
 
