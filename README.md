@@ -20,6 +20,9 @@ I would continue adding papers to this roadmap.
 
 # 1 Deep Learning History and Basics
 
+## 1.-1 Links
+http://scs.ryerson.ca/~aharley/vis/
+
 ## 1.0 Book
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[html]](http://www.deeplearningbook.org/) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
