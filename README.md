@@ -1,4 +1,4 @@
-# Deep Learning Papers Reading Roadmap
+# Deep Learning Papers Reading Roadmap (Clone)
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
